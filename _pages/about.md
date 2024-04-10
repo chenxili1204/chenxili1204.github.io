@@ -11,9 +11,9 @@ I am currently a master's student in the School of Computer Science and Engineer
 
 Research Interests
 ======
-+Computer Vision
-+Image/Video Enhancement
-+Pattern Recognition
+-Big data technology
+-Intelligent signal processing
+-Computer Vision
 
 Getting started
 ======
