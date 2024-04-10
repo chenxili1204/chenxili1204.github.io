@@ -11,9 +11,9 @@ I am currently a master's student in the School of Computer Science and Engineer
 
 Research Interests
 ======
--Big data technology
--Intelligent signal processing
--Computer Vision
+- Big data technology
+- Intelligent signal processing
+- Computer Vision
 
 Getting started
 ======
